@@ -1,0 +1,21 @@
+Game design elements make games fun and engaging. These will also help you when you think about designing your own game.
+A lot of applications like Facebook, Snapchat, Amazon etc. use game design elements inside their applications to make their applications fun, engaging and addictive. A lot of companies use game design elements to make their work enjoyable.
+Now, if we had to break down (deconstruct) the game into different components, what would they be?
+
+story:-
+Iron man's father stark has created an arc reactor but starks freind has made it but to take name he said to the world that he made the arc reactor then after the death of starks freind his son ivan vanko creates a armor that slice objects in two parts he makes his visa and came to america the at tony stark vacation he enters and here the fight starts then he takes all the armor from hammer company then iron man and his freind colonel defeats him and the last words of ivan vanko "You lose"
+
+Characters (PC and NPC):-Playing character Iron man and Non playing character Ivan Vanko and army
+
+
+- Goals:- So iron man have to punch and kill every robot to reach the ivan vanko and kill him to protect America
+
+ - Rules:-to move Playing character you have to press up arrow keys and to punch click on button on screen punch and to laser click on button laser.
+ 
+ - Balance:-Normal  but with stratergy
+
+ - Adaptivity:-3 levels 1st is easy 2nd one is normal 3rd one is hard the final level.
+
+ - Chance vs Skill:-Skill and chance.
+
+ - Feedback:-Game over and lives.
